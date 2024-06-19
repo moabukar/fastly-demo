@@ -1,8 +1,10 @@
 # Fastly compute demo test
 
-[![Deploy to Fastly](https://deploy.edgecompute.app/button)](https://deploy.edgecompute.app/deploy)
+## How to deploy
 
-Get to know the Fastly Compute environment with a basic starter that demonstrates routing, simple synthetic responses and code comments that cover common patterns.
+- Setup Fastly API token
+- export to CLI
+- run `fastly compute publish`
 
 ## Features
 
